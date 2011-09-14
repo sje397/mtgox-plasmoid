@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MtGox Trade Data
+Type=Service
+ServiceTypes=Plasma/Applet
+Icon=/newbitcoin.png
+X-Plasma-API=python
+X-Plasma-MainScript=code/mtgoxwidget.py
+X-KDE-PluginInfo-Author=Scott Ellis
+X-KDE-PluginInfo-Email=sje397@gmail.com
+X-KDE-PluginInfo-Name=mtgox-widget
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/sje397/plasma-widget-mtgox
+X-KDE-PluginInfo-Category=Bitcoin
+X-KDE-PluginInfo-Depends=plasma-dataengine-mtgox
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true 
