@@ -1,0 +1,7 @@
+KDE Plasmoid for MtGox Bitcoin Exchange Ticker Data
+
+This widget shows MtGox ticker data updated every second.
+
+First you need to install the Plasma DataEngine located here: https://github.com/sje397/mtgox
+
+Running the 'install.sh' script will install this widget, which you can then add to the desktop.
